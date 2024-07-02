@@ -1,0 +1,26 @@
+.title{
+    bottom: 10px;
+    width: 80%;
+    left:10%;
+}
+
+#white-box{
+    background-color: rgba(0, 0, 0, 0.5);
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 9;
+    height: 100vh;
+}
+.main-img{
+    background-image: url("../image/portfolio-1.jpg");
+    height: 400px;
+    width: 600px;
+    background-size: cover;
+    background-position: center;
+}
+i{
+    cursor: pointer;
+}
